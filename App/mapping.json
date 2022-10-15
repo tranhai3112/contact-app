@@ -1,0 +1,41 @@
+{
+    "components": {
+      "Select": {
+        "meta": {
+          "variantGroups": {
+            "status": {  
+              "custom": {  
+                "default": false 
+              }
+            }
+          }
+        },
+        "appearances": {
+          "default": {
+            "variantGroups": {
+              "status": {
+                "custom": { 
+                  "borderColor": "color-basic-100",
+                  "backgroundColor":"color-basic-100",
+                  "state": { 
+                    "focused": {
+                      "borderColor": "color-basic-100"
+                    },
+                    "hover": {
+                      "borderColor": "color-basic-100"
+                    },
+                    "active": {
+                      "borderColor": "color-basic-100"
+                    },
+                    "disabled": {
+                      "borderColor": "color-basic-100"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

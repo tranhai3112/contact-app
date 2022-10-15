@@ -1,0 +1,19 @@
+.login_form {
+    height: 100vh;
+    background: #f8f9fd;
+}
+
+.massage {
+    color: red
+}
+
+.login_form>.ant-col {
+    padding: 80px 150px;
+    box-shadow: 0 10px 34px -15px rgb(0 0 0 / 24%);
+    border-radius: 5px;
+    background-color: white;
+
+    .ant-btn {
+        width: 100%;
+    }
+}
